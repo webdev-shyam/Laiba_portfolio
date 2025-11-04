@@ -38,7 +38,7 @@ function Navigation() {
     >
       <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
         <a href="#" className=" h-[100px] w-[100px] rounded-lg placeholder:text-2xl font-bold bg-gradient-to-r flex justify-center items-center from-[#7A3EF0] to-[#3AA0FF] bg-clip-text text-transparent">
-          <img className="h-[70px] w-[70px] rounded-full" src="assets/profile.jpg" alt="logo" />
+          <img className="h-[70px] w-[70px] rounded-full" src="assets/heroine.jpg" alt="logo" />
         </a>
 
         <div className="hidden md:flex items-center gap-8">

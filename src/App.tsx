@@ -8,6 +8,8 @@ import Contact from './components/Contact';
 import Footer from './components/Footer';
 import BackToTop from './components/BackToTop';
 import AnimatedBackground from './components/AnimatedBackground';
+import Skills from './components/Skills';
+import Education from './components/Education';
 
 function App() {
   return (
@@ -17,7 +19,9 @@ function App() {
         <Navigation />
         <Hero />
         <About />
+        <Skills />
         <Services />
+        <Education />
         <Portfolio />
         <Testimonials />
         <Contact />
