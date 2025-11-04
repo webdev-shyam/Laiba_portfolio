@@ -201,8 +201,9 @@ This project is proprietary and owned by Laiba. Unauthorized copying or distribu
 
 For inquiries or project customization:
 - Email: contact@laiba.com
-- Website: [Coming soon]
+- LIVE DEMO: "coming soon"
+
 
 ---
 
-**Last Updated**: November 2024
+**Last Updated**: November 2025
