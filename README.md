@@ -201,7 +201,7 @@ This project is proprietary and owned by Laiba. Unauthorized copying or distribu
 
 For inquiries or project customization:
 - Email: contact@laiba.com
-- LIVE DEMO: "coming soon"
+- LIVE DEMO: https://laiba-portfolio-phi.vercel.app/
 
 
 ---
