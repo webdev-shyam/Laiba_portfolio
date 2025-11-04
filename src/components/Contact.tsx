@@ -38,7 +38,7 @@ function Contact() {
 
             <div className="flex items-center gap-3 p-4 rounded-xl bg-white/5 backdrop-blur-sm border border-white/10 hover:border-[#7A3EF0]/50 transition-all duration-300">
               <Mail className="w-5 h-5 text-[#3AA0FF]" />
-              <span className="text-gray-300"></span>
+              <span className="text-gray-300">laibakhalid2811@gmail.com</span>
             </div>
 
             <div className="pt-6">
